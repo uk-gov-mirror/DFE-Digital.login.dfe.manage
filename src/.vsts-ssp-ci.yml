@@ -4,7 +4,7 @@ resources:
   - repository: self
     type: github
     endpoint: DfE-Digital
-    name: DFE-Digital/login.dfe.profile
+    name: DFE-Digital/login.dfe.manage
     ref: NSA-3397    
 trigger:
   branches:
